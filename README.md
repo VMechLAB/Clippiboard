@@ -4,7 +4,7 @@ A desktop clipboard manager built on PySide6. It watches your system clipboard, 
 
 Single Python file, backed by SQLite. No server, no account, no network calls — everything stays on your machine.
 
-![screenshot placeholder](docs/screenshot.png)
+![screenshot placeholder](screenshot.png)
 
 ## Features
 
