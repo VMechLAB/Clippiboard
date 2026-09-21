@@ -31,9 +31,6 @@ The app starts minimized in the tray. Double-click the icon to open it.
 | Add to clipboard | `Ctrl+N` |
 | Jump to search | `Ctrl+F` |
 | Clear search / hide window | `Esc` |
-| Copy item back | Click a row |
-| Pin / unpin / remove / open link | Right-click a row |
-| Open link or GitHub row | Double-click |
 
 Settings, export, reminders, and the sticky note toggle live behind the `···` button. You can also get to them from the tray icon's right-click menu when the window is hidden.
 
@@ -46,4 +43,4 @@ Delete the folder to reset everything. It gets recreated with defaults on the ne
 
 ## License
 
-MIT - free to use to use & no limits.
+MIT - free to use & no limits.
